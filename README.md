@@ -4,7 +4,7 @@ Objective:
 
 Help the organisation improve employee performance and employee retention(reduce attrition) by creating an HR Analytics dashboard.
 
-  I have attached the dashboard and the raw filies......
+  I have attached the dashboard and the raw file...
   
   
   
